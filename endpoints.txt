@@ -1,0 +1,35 @@
+url: http://mtadatamine.s3-website-us-east-1.amazonaws.com/#/staticFeeds
+[Subway Realtime Feeds]
+A,C,E: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-ace
+B,D,F,M: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-bdfm
+G: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-g
+J,Z: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-jz
+N,Q,R,W: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-nqrw
+L: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-l
+1,2,3,4,5,6:  https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs
+7: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-7
+SIR: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-si
+
+[Static Feeds]
+Elevator/Escalator Listing: http://advisory.mtanyct.info/eedevwebsvc/allequipments.aspx
+Elevator/Escalator Status: http://web.mta.info/developers/data/nyct/nyct_ene.xml
+Service Status Combined: http://web.mta.info/status/serviceStatus.txt
+Service Status-Individual Subway Lines: http://web.mta.info/status/ServiceStatusSubway.xml
+Service Status - Bus: http://web.mta.info/status/ServiceStatusBus.xml
+Planned Work: http://web.mta.info/developers/data/nyct/plannedwork.xml
+Lost and Found Data: http://advisory.mtanyct.info/LPUWebServices/CurrentLostProperty.aspx
+
+[LIRR Realtime Feeds]
+Long Island Rail Road:  https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/lirr%2Fgtfs-lirr
+
+[MNR Realtime Feeds]
+Metro-North Railroad: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/mnr%2Fgtfs-mnr
+
+[Service Alert Feeds]
+All Service Alerts: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/camsys%2Fall-alerts
+Subway Alerts: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts
+Bus Alerts: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/camsys%2Fbus-alerts
+Long Island Rail Road Alerts: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/camsys%2Flirr-alerts
+Metro-North Railroad Alerts: https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/camsys%2Fmnr-alerts
+
+

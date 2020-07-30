@@ -1,0 +1,4223 @@
+[id: "000001G"
+trip_update {
+  trip {
+    trip_id: "107860_G..S"
+    start_time: "17:58:36"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975417
+    }
+    departure {
+      time: 1595975417
+    }
+    stop_id: "F25S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975492
+    }
+    departure {
+      time: 1595975492
+    }
+    stop_id: "F26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975612
+    }
+    departure {
+      time: 1595975612
+    }
+    stop_id: "F27S"
+  }
+}
+, id: "000002G"
+vehicle {
+  trip {
+    trip_id: "107860_G..S"
+    start_time: "17:58:36"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  current_stop_sequence: 18
+  timestamp: 1595975417
+  stop_id: "F25"
+}
+, id: "000003G"
+trip_update {
+  trip {
+    trip_id: "108000_G..N"
+    start_time: "18:00:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975422
+    }
+    departure {
+      time: 1595975422
+    }
+    stop_id: "G26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975568
+    }
+    departure {
+      time: 1595975568
+    }
+    stop_id: "G24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975628
+    }
+    departure {
+      time: 1595975628
+    }
+    stop_id: "G22N"
+  }
+}
+, id: "000004G"
+vehicle {
+  trip {
+    trip_id: "108000_G..N"
+    start_time: "18:00:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  current_stop_sequence: 18
+  timestamp: 1595975422
+  stop_id: "G26"
+}
+, id: "000005G"
+trip_update {
+  trip {
+    trip_id: "108700_G..N"
+    start_time: "18:07:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975408
+    }
+    departure {
+      time: 1595975408
+    }
+    stop_id: "G31N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975422
+    }
+    departure {
+      time: 1595975422
+    }
+    stop_id: "G30N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975486
+    }
+    departure {
+      time: 1595975486
+    }
+    stop_id: "G29N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975666
+    }
+    departure {
+      time: 1595975666
+    }
+    stop_id: "G28N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975756
+    }
+    departure {
+      time: 1595975756
+    }
+    stop_id: "G26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975906
+    }
+    departure {
+      time: 1595975906
+    }
+    stop_id: "G24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975966
+    }
+    departure {
+      time: 1595975966
+    }
+    stop_id: "G22N"
+  }
+}
+, id: "000006G"
+vehicle {
+  trip {
+    trip_id: "108700_G..N"
+    start_time: "18:07:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  current_stop_sequence: 15
+  timestamp: 1595975422
+  stop_id: "G30"
+}
+, id: "000007G"
+trip_update {
+  trip {
+    trip_id: "108801_G..S"
+    start_time: "18:08:01"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975418
+    }
+    departure {
+      time: 1595975418
+    }
+    stop_id: "F21S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975486
+    }
+    departure {
+      time: 1595975486
+    }
+    stop_id: "F22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975606
+    }
+    departure {
+      time: 1595975606
+    }
+    stop_id: "F23S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975726
+    }
+    departure {
+      time: 1595975726
+    }
+    stop_id: "F24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975816
+    }
+    departure {
+      time: 1595975816
+    }
+    stop_id: "F25S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975966
+    }
+    departure {
+      time: 1595975966
+    }
+    stop_id: "F26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976086
+    }
+    departure {
+      time: 1595976086
+    }
+    stop_id: "F27S"
+  }
+}
+, id: "000008G"
+vehicle {
+  trip {
+    trip_id: "108801_G..S"
+    start_time: "18:08:01"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  current_stop_sequence: 14
+  timestamp: 1595975418
+  stop_id: "F21"
+}
+, id: "000009G"
+trip_update {
+  trip {
+    trip_id: "109600_G..N"
+    start_time: "18:16:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975422
+    }
+    departure {
+      time: 1595975422
+    }
+    stop_id: "F20N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975486
+    }
+    departure {
+      time: 1595975486
+    }
+    stop_id: "A42N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975636
+    }
+    departure {
+      time: 1595975636
+    }
+    stop_id: "G36N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975726
+    }
+    departure {
+      time: 1595975726
+    }
+    stop_id: "G35N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975816
+    }
+    departure {
+      time: 1595975816
+    }
+    stop_id: "G34N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975876
+    }
+    departure {
+      time: 1595975876
+    }
+    stop_id: "G33N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975966
+    }
+    departure {
+      time: 1595975966
+    }
+    stop_id: "G32N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976056
+    }
+    departure {
+      time: 1595976056
+    }
+    stop_id: "G31N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976146
+    }
+    departure {
+      time: 1595976146
+    }
+    stop_id: "G30N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976206
+    }
+    departure {
+      time: 1595976206
+    }
+    stop_id: "G29N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976386
+    }
+    departure {
+      time: 1595976386
+    }
+    stop_id: "G28N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976476
+    }
+    departure {
+      time: 1595976476
+    }
+    stop_id: "G26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976626
+    }
+    departure {
+      time: 1595976626
+    }
+    stop_id: "G24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976686
+    }
+    departure {
+      time: 1595976686
+    }
+    stop_id: "G22N"
+  }
+}
+, id: "000010G"
+vehicle {
+  trip {
+    trip_id: "109600_G..N"
+    start_time: "18:16:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  current_stop_sequence: 7
+  timestamp: 1595975422
+  stop_id: "F20"
+}
+, id: "000011G"
+trip_update {
+  trip {
+    trip_id: "109711_G..S"
+    start_time: "18:17:07"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975422
+    }
+    departure {
+      time: 1595975422
+    }
+    stop_id: "G33S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975486
+    }
+    departure {
+      time: 1595975486
+    }
+    stop_id: "G34S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975576
+    }
+    departure {
+      time: 1595975576
+    }
+    stop_id: "G35S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975666
+    }
+    departure {
+      time: 1595975666
+    }
+    stop_id: "G36S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975786
+    }
+    departure {
+      time: 1595975786
+    }
+    stop_id: "A42S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975906
+    }
+    departure {
+      time: 1595975906
+    }
+    stop_id: "F20S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975996
+    }
+    departure {
+      time: 1595975996
+    }
+    stop_id: "F21S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976116
+    }
+    departure {
+      time: 1595976116
+    }
+    stop_id: "F22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976236
+    }
+    departure {
+      time: 1595976236
+    }
+    stop_id: "F23S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976356
+    }
+    departure {
+      time: 1595976356
+    }
+    stop_id: "F24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976446
+    }
+    departure {
+      time: 1595976446
+    }
+    stop_id: "F25S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976596
+    }
+    departure {
+      time: 1595976596
+    }
+    stop_id: "F26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976686
+    }
+    departure {
+      time: 1595976686
+    }
+    stop_id: "F27S"
+  }
+}
+, id: "000012G"
+vehicle {
+  trip {
+    trip_id: "109711_G..S"
+    start_time: "18:17:07"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  current_stop_sequence: 8
+  timestamp: 1595975422
+  stop_id: "G33"
+}
+, id: "000013G"
+trip_update {
+  trip {
+    trip_id: "110006_G..N"
+    start_time: "18:20:04"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975422
+    }
+    departure {
+      time: 1595975422
+    }
+    stop_id: "F21N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975504
+    }
+    departure {
+      time: 1595975504
+    }
+    stop_id: "F20N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975654
+    }
+    departure {
+      time: 1595975654
+    }
+    stop_id: "A42N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975804
+    }
+    departure {
+      time: 1595975804
+    }
+    stop_id: "G36N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975894
+    }
+    departure {
+      time: 1595975894
+    }
+    stop_id: "G35N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975984
+    }
+    departure {
+      time: 1595975984
+    }
+    stop_id: "G34N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976044
+    }
+    departure {
+      time: 1595976044
+    }
+    stop_id: "G33N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976134
+    }
+    departure {
+      time: 1595976134
+    }
+    stop_id: "G32N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976224
+    }
+    departure {
+      time: 1595976224
+    }
+    stop_id: "G31N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976314
+    }
+    departure {
+      time: 1595976314
+    }
+    stop_id: "G30N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976374
+    }
+    departure {
+      time: 1595976374
+    }
+    stop_id: "G29N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976554
+    }
+    departure {
+      time: 1595976554
+    }
+    stop_id: "G28N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976644
+    }
+    departure {
+      time: 1595976644
+    }
+    stop_id: "G26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976794
+    }
+    departure {
+      time: 1595976794
+    }
+    stop_id: "G24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976854
+    }
+    departure {
+      time: 1595976854
+    }
+    stop_id: "G22N"
+  }
+}
+, id: "000014G"
+vehicle {
+  trip {
+    trip_id: "110006_G..N"
+    start_time: "18:20:04"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  current_stop_sequence: 6
+  timestamp: 1595975422
+  stop_id: "F21"
+}
+, id: "000015G"
+trip_update {
+  trip {
+    trip_id: "110520_G..S"
+    start_time: "18:25:12"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975422
+    }
+    departure {
+      time: 1595975422
+    }
+    stop_id: "G28S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975538
+    }
+    departure {
+      time: 1595975538
+    }
+    stop_id: "G29S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975628
+    }
+    departure {
+      time: 1595975628
+    }
+    stop_id: "G30S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975688
+    }
+    departure {
+      time: 1595975688
+    }
+    stop_id: "G31S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975778
+    }
+    departure {
+      time: 1595975778
+    }
+    stop_id: "G32S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975868
+    }
+    departure {
+      time: 1595975868
+    }
+    stop_id: "G33S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975928
+    }
+    departure {
+      time: 1595975928
+    }
+    stop_id: "G34S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976018
+    }
+    departure {
+      time: 1595976018
+    }
+    stop_id: "G35S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976108
+    }
+    departure {
+      time: 1595976108
+    }
+    stop_id: "G36S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976198
+    }
+    departure {
+      time: 1595976198
+    }
+    stop_id: "A42S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976288
+    }
+    departure {
+      time: 1595976288
+    }
+    stop_id: "F20S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976378
+    }
+    departure {
+      time: 1595976378
+    }
+    stop_id: "F21S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976498
+    }
+    departure {
+      time: 1595976498
+    }
+    stop_id: "F22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976618
+    }
+    departure {
+      time: 1595976618
+    }
+    stop_id: "F23S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976738
+    }
+    departure {
+      time: 1595976738
+    }
+    stop_id: "F24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976828
+    }
+    departure {
+      time: 1595976828
+    }
+    stop_id: "F25S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976978
+    }
+    departure {
+      time: 1595976978
+    }
+    stop_id: "F26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977068
+    }
+    departure {
+      time: 1595977068
+    }
+    stop_id: "F27S"
+  }
+}
+, id: "000016G"
+vehicle {
+  trip {
+    trip_id: "110520_G..S"
+    start_time: "18:25:12"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  current_stop_sequence: 3
+  timestamp: 1595975422
+  stop_id: "G28"
+}
+, id: "000017G"
+trip_update {
+  trip {
+    trip_id: "110900_G..N"
+    start_time: "18:29:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975486
+    }
+    departure {
+      time: 1595975486
+    }
+    stop_id: "F26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975636
+    }
+    departure {
+      time: 1595975636
+    }
+    stop_id: "F25N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975756
+    }
+    departure {
+      time: 1595975756
+    }
+    stop_id: "F24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975876
+    }
+    departure {
+      time: 1595975876
+    }
+    stop_id: "F23N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975966
+    }
+    departure {
+      time: 1595975966
+    }
+    stop_id: "F22N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976086
+    }
+    departure {
+      time: 1595976086
+    }
+    stop_id: "F21N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976176
+    }
+    departure {
+      time: 1595976176
+    }
+    stop_id: "F20N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976341
+    }
+    departure {
+      time: 1595976341
+    }
+    stop_id: "A42N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976506
+    }
+    departure {
+      time: 1595976506
+    }
+    stop_id: "G36N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976596
+    }
+    departure {
+      time: 1595976596
+    }
+    stop_id: "G35N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976686
+    }
+    departure {
+      time: 1595976686
+    }
+    stop_id: "G34N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976746
+    }
+    departure {
+      time: 1595976746
+    }
+    stop_id: "G33N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976836
+    }
+    departure {
+      time: 1595976836
+    }
+    stop_id: "G32N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976926
+    }
+    departure {
+      time: 1595976926
+    }
+    stop_id: "G31N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977016
+    }
+    departure {
+      time: 1595977016
+    }
+    stop_id: "G30N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977076
+    }
+    departure {
+      time: 1595977076
+    }
+    stop_id: "G29N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977256
+    }
+    departure {
+      time: 1595977256
+    }
+    stop_id: "G28N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977346
+    }
+    departure {
+      time: 1595977346
+    }
+    stop_id: "G26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977496
+    }
+    departure {
+      time: 1595977496
+    }
+    stop_id: "G24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977556
+    }
+    departure {
+      time: 1595977556
+    }
+    stop_id: "G22N"
+  }
+}
+, id: "000018G"
+vehicle {
+  trip {
+    trip_id: "110900_G..N"
+    start_time: "18:29:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_id: "F27"
+}
+, id: "000019G"
+trip_update {
+  trip {
+    trip_id: "111200_G..S"
+    start_time: "18:32:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975520
+    }
+    departure {
+      time: 1595975520
+    }
+    stop_id: "G22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975580
+    }
+    departure {
+      time: 1595975580
+    }
+    stop_id: "G24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975730
+    }
+    departure {
+      time: 1595975730
+    }
+    stop_id: "G26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975820
+    }
+    departure {
+      time: 1595975820
+    }
+    stop_id: "G28S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976000
+    }
+    departure {
+      time: 1595976000
+    }
+    stop_id: "G29S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976090
+    }
+    departure {
+      time: 1595976090
+    }
+    stop_id: "G30S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976150
+    }
+    departure {
+      time: 1595976150
+    }
+    stop_id: "G31S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976240
+    }
+    departure {
+      time: 1595976240
+    }
+    stop_id: "G32S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976330
+    }
+    departure {
+      time: 1595976330
+    }
+    stop_id: "G33S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976390
+    }
+    departure {
+      time: 1595976390
+    }
+    stop_id: "G34S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976480
+    }
+    departure {
+      time: 1595976480
+    }
+    stop_id: "G35S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976570
+    }
+    departure {
+      time: 1595976570
+    }
+    stop_id: "G36S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976690
+    }
+    departure {
+      time: 1595976690
+    }
+    stop_id: "A42S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976810
+    }
+    departure {
+      time: 1595976810
+    }
+    stop_id: "F20S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976900
+    }
+    departure {
+      time: 1595976900
+    }
+    stop_id: "F21S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977020
+    }
+    departure {
+      time: 1595977020
+    }
+    stop_id: "F22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977140
+    }
+    departure {
+      time: 1595977140
+    }
+    stop_id: "F23S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977260
+    }
+    departure {
+      time: 1595977260
+    }
+    stop_id: "F24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977350
+    }
+    departure {
+      time: 1595977350
+    }
+    stop_id: "F25S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977500
+    }
+    departure {
+      time: 1595977500
+    }
+    stop_id: "F26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977590
+    }
+    departure {
+      time: 1595977590
+    }
+    stop_id: "F27S"
+  }
+}
+, id: "000020G"
+vehicle {
+  trip {
+    trip_id: "111200_G..S"
+    start_time: "18:32:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595975520
+  stop_id: "G22"
+}
+, id: "000021G"
+trip_update {
+  trip {
+    trip_id: "111700_G..N"
+    start_time: "18:37:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975820
+    }
+    departure {
+      time: 1595975820
+    }
+    stop_id: "F27N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975940
+    }
+    departure {
+      time: 1595975940
+    }
+    stop_id: "F26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976090
+    }
+    departure {
+      time: 1595976090
+    }
+    stop_id: "F25N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976210
+    }
+    departure {
+      time: 1595976210
+    }
+    stop_id: "F24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976330
+    }
+    departure {
+      time: 1595976330
+    }
+    stop_id: "F23N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976420
+    }
+    departure {
+      time: 1595976420
+    }
+    stop_id: "F22N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976540
+    }
+    departure {
+      time: 1595976540
+    }
+    stop_id: "F21N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976630
+    }
+    departure {
+      time: 1595976630
+    }
+    stop_id: "F20N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976750
+    }
+    departure {
+      time: 1595976750
+    }
+    stop_id: "A42N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976900
+    }
+    departure {
+      time: 1595976900
+    }
+    stop_id: "G36N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976990
+    }
+    departure {
+      time: 1595976990
+    }
+    stop_id: "G35N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977080
+    }
+    departure {
+      time: 1595977080
+    }
+    stop_id: "G34N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977140
+    }
+    departure {
+      time: 1595977140
+    }
+    stop_id: "G33N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977230
+    }
+    departure {
+      time: 1595977230
+    }
+    stop_id: "G32N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977320
+    }
+    departure {
+      time: 1595977320
+    }
+    stop_id: "G31N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977410
+    }
+    departure {
+      time: 1595977410
+    }
+    stop_id: "G30N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977470
+    }
+    departure {
+      time: 1595977470
+    }
+    stop_id: "G29N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977650
+    }
+    departure {
+      time: 1595977650
+    }
+    stop_id: "G28N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977740
+    }
+    departure {
+      time: 1595977740
+    }
+    stop_id: "G26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977890
+    }
+    departure {
+      time: 1595977890
+    }
+    stop_id: "G24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977950
+    }
+    departure {
+      time: 1595977950
+    }
+    stop_id: "G22N"
+  }
+}
+, id: "000022G"
+vehicle {
+  trip {
+    trip_id: "111700_G..N"
+    start_time: "18:37:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595975820
+  stop_id: "F27"
+}
+, id: "000023G"
+trip_update {
+  trip {
+    trip_id: "111950_G..S"
+    start_time: "18:39:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595975970
+    }
+    departure {
+      time: 1595975970
+    }
+    stop_id: "G22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976030
+    }
+    departure {
+      time: 1595976030
+    }
+    stop_id: "G24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976180
+    }
+    departure {
+      time: 1595976180
+    }
+    stop_id: "G26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976270
+    }
+    departure {
+      time: 1595976270
+    }
+    stop_id: "G28S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976450
+    }
+    departure {
+      time: 1595976450
+    }
+    stop_id: "G29S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976540
+    }
+    departure {
+      time: 1595976540
+    }
+    stop_id: "G30S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976600
+    }
+    departure {
+      time: 1595976600
+    }
+    stop_id: "G31S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976690
+    }
+    departure {
+      time: 1595976690
+    }
+    stop_id: "G32S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976780
+    }
+    departure {
+      time: 1595976780
+    }
+    stop_id: "G33S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976840
+    }
+    departure {
+      time: 1595976840
+    }
+    stop_id: "G34S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976930
+    }
+    departure {
+      time: 1595976930
+    }
+    stop_id: "G35S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977020
+    }
+    departure {
+      time: 1595977020
+    }
+    stop_id: "G36S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977110
+    }
+    departure {
+      time: 1595977110
+    }
+    stop_id: "A42S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977200
+    }
+    departure {
+      time: 1595977200
+    }
+    stop_id: "F20S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977290
+    }
+    departure {
+      time: 1595977290
+    }
+    stop_id: "F21S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977410
+    }
+    departure {
+      time: 1595977410
+    }
+    stop_id: "F22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977530
+    }
+    departure {
+      time: 1595977530
+    }
+    stop_id: "F23S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977620
+    }
+    departure {
+      time: 1595977620
+    }
+    stop_id: "F24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977710
+    }
+    departure {
+      time: 1595977710
+    }
+    stop_id: "F25S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977860
+    }
+    departure {
+      time: 1595977860
+    }
+    stop_id: "F26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977950
+    }
+    departure {
+      time: 1595977950
+    }
+    stop_id: "F27S"
+  }
+}
+, id: "000024G"
+vehicle {
+  trip {
+    trip_id: "111950_G..S"
+    start_time: "18:39:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595975970
+  stop_id: "G22"
+}
+, id: "000025G"
+trip_update {
+  trip {
+    trip_id: "112600_G..N"
+    start_time: "18:46:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976360
+    }
+    departure {
+      time: 1595976360
+    }
+    stop_id: "F27N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976480
+    }
+    departure {
+      time: 1595976480
+    }
+    stop_id: "F26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976630
+    }
+    departure {
+      time: 1595976630
+    }
+    stop_id: "F25N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976750
+    }
+    departure {
+      time: 1595976750
+    }
+    stop_id: "F24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976870
+    }
+    departure {
+      time: 1595976870
+    }
+    stop_id: "F23N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976960
+    }
+    departure {
+      time: 1595976960
+    }
+    stop_id: "F22N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977080
+    }
+    departure {
+      time: 1595977080
+    }
+    stop_id: "F21N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977170
+    }
+    departure {
+      time: 1595977170
+    }
+    stop_id: "F20N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977260
+    }
+    departure {
+      time: 1595977260
+    }
+    stop_id: "A42N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977380
+    }
+    departure {
+      time: 1595977380
+    }
+    stop_id: "G36N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977470
+    }
+    departure {
+      time: 1595977470
+    }
+    stop_id: "G35N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977560
+    }
+    departure {
+      time: 1595977560
+    }
+    stop_id: "G34N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977620
+    }
+    departure {
+      time: 1595977620
+    }
+    stop_id: "G33N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977710
+    }
+    departure {
+      time: 1595977710
+    }
+    stop_id: "G32N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977800
+    }
+    departure {
+      time: 1595977800
+    }
+    stop_id: "G31N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977890
+    }
+    departure {
+      time: 1595977890
+    }
+    stop_id: "G30N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977950
+    }
+    departure {
+      time: 1595977950
+    }
+    stop_id: "G29N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978130
+    }
+    departure {
+      time: 1595978130
+    }
+    stop_id: "G28N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978220
+    }
+    departure {
+      time: 1595978220
+    }
+    stop_id: "G26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978370
+    }
+    departure {
+      time: 1595978370
+    }
+    stop_id: "G24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978430
+    }
+    departure {
+      time: 1595978430
+    }
+    stop_id: "G22N"
+  }
+}
+, id: "000026G"
+vehicle {
+  trip {
+    trip_id: "112600_G..N"
+    start_time: "18:46:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595976360
+  stop_id: "F27"
+}
+, id: "000027G"
+trip_update {
+  trip {
+    trip_id: "112750_G..S"
+    start_time: "18:47:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976450
+    }
+    departure {
+      time: 1595976450
+    }
+    stop_id: "G22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976510
+    }
+    departure {
+      time: 1595976510
+    }
+    stop_id: "G24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976660
+    }
+    departure {
+      time: 1595976660
+    }
+    stop_id: "G26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976750
+    }
+    departure {
+      time: 1595976750
+    }
+    stop_id: "G28S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976930
+    }
+    departure {
+      time: 1595976930
+    }
+    stop_id: "G29S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977020
+    }
+    departure {
+      time: 1595977020
+    }
+    stop_id: "G30S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977080
+    }
+    departure {
+      time: 1595977080
+    }
+    stop_id: "G31S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977170
+    }
+    departure {
+      time: 1595977170
+    }
+    stop_id: "G32S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977260
+    }
+    departure {
+      time: 1595977260
+    }
+    stop_id: "G33S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977320
+    }
+    departure {
+      time: 1595977320
+    }
+    stop_id: "G34S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977410
+    }
+    departure {
+      time: 1595977410
+    }
+    stop_id: "G35S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977500
+    }
+    departure {
+      time: 1595977500
+    }
+    stop_id: "G36S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977590
+    }
+    departure {
+      time: 1595977590
+    }
+    stop_id: "A42S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977680
+    }
+    departure {
+      time: 1595977680
+    }
+    stop_id: "F20S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977770
+    }
+    departure {
+      time: 1595977770
+    }
+    stop_id: "F21S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977890
+    }
+    departure {
+      time: 1595977890
+    }
+    stop_id: "F22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978010
+    }
+    departure {
+      time: 1595978010
+    }
+    stop_id: "F23S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978100
+    }
+    departure {
+      time: 1595978100
+    }
+    stop_id: "F24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978190
+    }
+    departure {
+      time: 1595978190
+    }
+    stop_id: "F25S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978340
+    }
+    departure {
+      time: 1595978340
+    }
+    stop_id: "F26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978430
+    }
+    departure {
+      time: 1595978430
+    }
+    stop_id: "F27S"
+  }
+}
+, id: "000028G"
+vehicle {
+  trip {
+    trip_id: "112750_G..S"
+    start_time: "18:47:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595976450
+  stop_id: "G22"
+}
+, id: "000029G"
+trip_update {
+  trip {
+    trip_id: "113250_G..N"
+    start_time: "18:52:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976750
+    }
+    departure {
+      time: 1595976750
+    }
+    stop_id: "F27N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976870
+    }
+    departure {
+      time: 1595976870
+    }
+    stop_id: "F26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977020
+    }
+    departure {
+      time: 1595977020
+    }
+    stop_id: "F25N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977140
+    }
+    departure {
+      time: 1595977140
+    }
+    stop_id: "F24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977260
+    }
+    departure {
+      time: 1595977260
+    }
+    stop_id: "F23N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977350
+    }
+    departure {
+      time: 1595977350
+    }
+    stop_id: "F22N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977470
+    }
+    departure {
+      time: 1595977470
+    }
+    stop_id: "F21N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977560
+    }
+    departure {
+      time: 1595977560
+    }
+    stop_id: "F20N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977650
+    }
+    departure {
+      time: 1595977650
+    }
+    stop_id: "A42N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977740
+    }
+    departure {
+      time: 1595977740
+    }
+    stop_id: "G36N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977830
+    }
+    departure {
+      time: 1595977830
+    }
+    stop_id: "G35N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977920
+    }
+    departure {
+      time: 1595977920
+    }
+    stop_id: "G34N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977980
+    }
+    departure {
+      time: 1595977980
+    }
+    stop_id: "G33N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978070
+    }
+    departure {
+      time: 1595978070
+    }
+    stop_id: "G32N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978160
+    }
+    departure {
+      time: 1595978160
+    }
+    stop_id: "G31N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978250
+    }
+    departure {
+      time: 1595978250
+    }
+    stop_id: "G30N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978310
+    }
+    departure {
+      time: 1595978310
+    }
+    stop_id: "G29N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978490
+    }
+    departure {
+      time: 1595978490
+    }
+    stop_id: "G28N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978580
+    }
+    departure {
+      time: 1595978580
+    }
+    stop_id: "G26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978730
+    }
+    departure {
+      time: 1595978730
+    }
+    stop_id: "G24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978790
+    }
+    departure {
+      time: 1595978790
+    }
+    stop_id: "G22N"
+  }
+}
+, id: "000030G"
+vehicle {
+  trip {
+    trip_id: "113250_G..N"
+    start_time: "18:52:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595976750
+  stop_id: "F27"
+}
+, id: "000031G"
+trip_update {
+  trip {
+    trip_id: "113550_G..S"
+    start_time: "18:55:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976930
+    }
+    departure {
+      time: 1595976930
+    }
+    stop_id: "G22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595976990
+    }
+    departure {
+      time: 1595976990
+    }
+    stop_id: "G24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977140
+    }
+    departure {
+      time: 1595977140
+    }
+    stop_id: "G26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977230
+    }
+    departure {
+      time: 1595977230
+    }
+    stop_id: "G28S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977410
+    }
+    departure {
+      time: 1595977410
+    }
+    stop_id: "G29S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977500
+    }
+    departure {
+      time: 1595977500
+    }
+    stop_id: "G30S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977560
+    }
+    departure {
+      time: 1595977560
+    }
+    stop_id: "G31S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977650
+    }
+    departure {
+      time: 1595977650
+    }
+    stop_id: "G32S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977740
+    }
+    departure {
+      time: 1595977740
+    }
+    stop_id: "G33S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977800
+    }
+    departure {
+      time: 1595977800
+    }
+    stop_id: "G34S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977890
+    }
+    departure {
+      time: 1595977890
+    }
+    stop_id: "G35S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977980
+    }
+    departure {
+      time: 1595977980
+    }
+    stop_id: "G36S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978100
+    }
+    departure {
+      time: 1595978100
+    }
+    stop_id: "A42S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978220
+    }
+    departure {
+      time: 1595978220
+    }
+    stop_id: "F20S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978310
+    }
+    departure {
+      time: 1595978310
+    }
+    stop_id: "F21S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978430
+    }
+    departure {
+      time: 1595978430
+    }
+    stop_id: "F22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978550
+    }
+    departure {
+      time: 1595978550
+    }
+    stop_id: "F23S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978640
+    }
+    departure {
+      time: 1595978640
+    }
+    stop_id: "F24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978730
+    }
+    departure {
+      time: 1595978730
+    }
+    stop_id: "F25S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978880
+    }
+    departure {
+      time: 1595978880
+    }
+    stop_id: "F26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978970
+    }
+    departure {
+      time: 1595978970
+    }
+    stop_id: "F27S"
+  }
+}
+, id: "000032G"
+vehicle {
+  trip {
+    trip_id: "113550_G..S"
+    start_time: "18:55:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595976930
+  stop_id: "G22"
+}
+, id: "000033G"
+trip_update {
+  trip {
+    trip_id: "114250_G..N"
+    start_time: "19:02:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977350
+    }
+    departure {
+      time: 1595977350
+    }
+    stop_id: "F27N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977470
+    }
+    departure {
+      time: 1595977470
+    }
+    stop_id: "F26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977620
+    }
+    departure {
+      time: 1595977620
+    }
+    stop_id: "F25N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977740
+    }
+    departure {
+      time: 1595977740
+    }
+    stop_id: "F24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977860
+    }
+    departure {
+      time: 1595977860
+    }
+    stop_id: "F23N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977950
+    }
+    departure {
+      time: 1595977950
+    }
+    stop_id: "F22N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978070
+    }
+    departure {
+      time: 1595978070
+    }
+    stop_id: "F21N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978160
+    }
+    departure {
+      time: 1595978160
+    }
+    stop_id: "F20N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978250
+    }
+    departure {
+      time: 1595978250
+    }
+    stop_id: "A42N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978340
+    }
+    departure {
+      time: 1595978340
+    }
+    stop_id: "G36N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978430
+    }
+    departure {
+      time: 1595978430
+    }
+    stop_id: "G35N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978520
+    }
+    departure {
+      time: 1595978520
+    }
+    stop_id: "G34N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978580
+    }
+    departure {
+      time: 1595978580
+    }
+    stop_id: "G33N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978670
+    }
+    departure {
+      time: 1595978670
+    }
+    stop_id: "G32N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978760
+    }
+    departure {
+      time: 1595978760
+    }
+    stop_id: "G31N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978850
+    }
+    departure {
+      time: 1595978850
+    }
+    stop_id: "G30N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978910
+    }
+    departure {
+      time: 1595978910
+    }
+    stop_id: "G29N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979090
+    }
+    departure {
+      time: 1595979090
+    }
+    stop_id: "G28N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979180
+    }
+    departure {
+      time: 1595979180
+    }
+    stop_id: "G26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979330
+    }
+    departure {
+      time: 1595979330
+    }
+    stop_id: "G24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979390
+    }
+    departure {
+      time: 1595979390
+    }
+    stop_id: "G22N"
+  }
+}
+, id: "000034G"
+vehicle {
+  trip {
+    trip_id: "114250_G..N"
+    start_time: "19:02:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595977350
+  stop_id: "F27"
+}
+, id: "000035G"
+trip_update {
+  trip {
+    trip_id: "114300_G..S"
+    start_time: "19:03:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977380
+    }
+    departure {
+      time: 1595977380
+    }
+    stop_id: "G22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977440
+    }
+    departure {
+      time: 1595977440
+    }
+    stop_id: "G24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977590
+    }
+    departure {
+      time: 1595977590
+    }
+    stop_id: "G26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977680
+    }
+    departure {
+      time: 1595977680
+    }
+    stop_id: "G28S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977860
+    }
+    departure {
+      time: 1595977860
+    }
+    stop_id: "G29S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977950
+    }
+    departure {
+      time: 1595977950
+    }
+    stop_id: "G30S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978010
+    }
+    departure {
+      time: 1595978010
+    }
+    stop_id: "G31S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978100
+    }
+    departure {
+      time: 1595978100
+    }
+    stop_id: "G32S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978205
+    }
+    departure {
+      time: 1595978205
+    }
+    stop_id: "G33S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978280
+    }
+    departure {
+      time: 1595978280
+    }
+    stop_id: "G34S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978370
+    }
+    departure {
+      time: 1595978370
+    }
+    stop_id: "G35S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978460
+    }
+    departure {
+      time: 1595978460
+    }
+    stop_id: "G36S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978550
+    }
+    departure {
+      time: 1595978550
+    }
+    stop_id: "A42S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978640
+    }
+    departure {
+      time: 1595978640
+    }
+    stop_id: "F20S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978730
+    }
+    departure {
+      time: 1595978730
+    }
+    stop_id: "F21S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978850
+    }
+    departure {
+      time: 1595978850
+    }
+    stop_id: "F22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978970
+    }
+    departure {
+      time: 1595978970
+    }
+    stop_id: "F23S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979060
+    }
+    departure {
+      time: 1595979060
+    }
+    stop_id: "F24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979150
+    }
+    departure {
+      time: 1595979150
+    }
+    stop_id: "F25S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979300
+    }
+    departure {
+      time: 1595979300
+    }
+    stop_id: "F26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979390
+    }
+    departure {
+      time: 1595979390
+    }
+    stop_id: "F27S"
+  }
+}
+, id: "000036G"
+vehicle {
+  trip {
+    trip_id: "114300_G..S"
+    start_time: "19:03:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595977380
+  stop_id: "G22"
+}
+, id: "000037G"
+trip_update {
+  trip {
+    trip_id: "115050_G..S"
+    start_time: "19:10:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977830
+    }
+    departure {
+      time: 1595977830
+    }
+    stop_id: "G22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977890
+    }
+    departure {
+      time: 1595977890
+    }
+    stop_id: "G24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978040
+    }
+    departure {
+      time: 1595978040
+    }
+    stop_id: "G26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978130
+    }
+    departure {
+      time: 1595978130
+    }
+    stop_id: "G28S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978310
+    }
+    departure {
+      time: 1595978310
+    }
+    stop_id: "G29S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978400
+    }
+    departure {
+      time: 1595978400
+    }
+    stop_id: "G30S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978460
+    }
+    departure {
+      time: 1595978460
+    }
+    stop_id: "G31S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978550
+    }
+    departure {
+      time: 1595978550
+    }
+    stop_id: "G32S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978640
+    }
+    departure {
+      time: 1595978640
+    }
+    stop_id: "G33S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978700
+    }
+    departure {
+      time: 1595978700
+    }
+    stop_id: "G34S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978790
+    }
+    departure {
+      time: 1595978790
+    }
+    stop_id: "G35S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978880
+    }
+    departure {
+      time: 1595978880
+    }
+    stop_id: "G36S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979030
+    }
+    departure {
+      time: 1595979030
+    }
+    stop_id: "A42S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979180
+    }
+    departure {
+      time: 1595979180
+    }
+    stop_id: "F20S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979270
+    }
+    departure {
+      time: 1595979270
+    }
+    stop_id: "F21S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979390
+    }
+    departure {
+      time: 1595979390
+    }
+    stop_id: "F22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979510
+    }
+    departure {
+      time: 1595979510
+    }
+    stop_id: "F23S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979600
+    }
+    departure {
+      time: 1595979600
+    }
+    stop_id: "F24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979690
+    }
+    departure {
+      time: 1595979690
+    }
+    stop_id: "F25S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979840
+    }
+    departure {
+      time: 1595979840
+    }
+    stop_id: "F26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979930
+    }
+    departure {
+      time: 1595979930
+    }
+    stop_id: "F27S"
+  }
+}
+, id: "000038G"
+vehicle {
+  trip {
+    trip_id: "115050_G..S"
+    start_time: "19:10:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595977830
+  stop_id: "G22"
+}
+, id: "000039G"
+trip_update {
+  trip {
+    trip_id: "115300_G..N"
+    start_time: "19:13:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595977980
+    }
+    departure {
+      time: 1595977980
+    }
+    stop_id: "F27N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978100
+    }
+    departure {
+      time: 1595978100
+    }
+    stop_id: "F26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978250
+    }
+    departure {
+      time: 1595978250
+    }
+    stop_id: "F25N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978370
+    }
+    departure {
+      time: 1595978370
+    }
+    stop_id: "F24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978490
+    }
+    departure {
+      time: 1595978490
+    }
+    stop_id: "F23N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978580
+    }
+    departure {
+      time: 1595978580
+    }
+    stop_id: "F22N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978700
+    }
+    departure {
+      time: 1595978700
+    }
+    stop_id: "F21N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978790
+    }
+    departure {
+      time: 1595978790
+    }
+    stop_id: "F20N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978880
+    }
+    departure {
+      time: 1595978880
+    }
+    stop_id: "A42N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978970
+    }
+    departure {
+      time: 1595978970
+    }
+    stop_id: "G36N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979060
+    }
+    departure {
+      time: 1595979060
+    }
+    stop_id: "G35N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979150
+    }
+    departure {
+      time: 1595979150
+    }
+    stop_id: "G34N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979210
+    }
+    departure {
+      time: 1595979210
+    }
+    stop_id: "G33N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979300
+    }
+    departure {
+      time: 1595979300
+    }
+    stop_id: "G32N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979390
+    }
+    departure {
+      time: 1595979390
+    }
+    stop_id: "G31N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979480
+    }
+    departure {
+      time: 1595979480
+    }
+    stop_id: "G30N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979540
+    }
+    departure {
+      time: 1595979540
+    }
+    stop_id: "G29N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979720
+    }
+    departure {
+      time: 1595979720
+    }
+    stop_id: "G28N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979810
+    }
+    departure {
+      time: 1595979810
+    }
+    stop_id: "G26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979960
+    }
+    departure {
+      time: 1595979960
+    }
+    stop_id: "G24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980020
+    }
+    departure {
+      time: 1595980020
+    }
+    stop_id: "G22N"
+  }
+}
+, id: "000040G"
+vehicle {
+  trip {
+    trip_id: "115300_G..N"
+    start_time: "19:13:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595977980
+  stop_id: "F27"
+}
+, id: "000041G"
+trip_update {
+  trip {
+    trip_id: "115800_G..S"
+    start_time: "19:18:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978280
+    }
+    departure {
+      time: 1595978280
+    }
+    stop_id: "G22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978340
+    }
+    departure {
+      time: 1595978340
+    }
+    stop_id: "G24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978490
+    }
+    departure {
+      time: 1595978490
+    }
+    stop_id: "G26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978580
+    }
+    departure {
+      time: 1595978580
+    }
+    stop_id: "G28S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978760
+    }
+    departure {
+      time: 1595978760
+    }
+    stop_id: "G29S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978850
+    }
+    departure {
+      time: 1595978850
+    }
+    stop_id: "G30S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978910
+    }
+    departure {
+      time: 1595978910
+    }
+    stop_id: "G31S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979000
+    }
+    departure {
+      time: 1595979000
+    }
+    stop_id: "G32S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979090
+    }
+    departure {
+      time: 1595979090
+    }
+    stop_id: "G33S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979150
+    }
+    departure {
+      time: 1595979150
+    }
+    stop_id: "G34S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979240
+    }
+    departure {
+      time: 1595979240
+    }
+    stop_id: "G35S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979330
+    }
+    departure {
+      time: 1595979330
+    }
+    stop_id: "G36S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979450
+    }
+    departure {
+      time: 1595979450
+    }
+    stop_id: "A42S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979570
+    }
+    departure {
+      time: 1595979570
+    }
+    stop_id: "F20S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979660
+    }
+    departure {
+      time: 1595979660
+    }
+    stop_id: "F21S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979780
+    }
+    departure {
+      time: 1595979780
+    }
+    stop_id: "F22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979900
+    }
+    departure {
+      time: 1595979900
+    }
+    stop_id: "F23S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979990
+    }
+    departure {
+      time: 1595979990
+    }
+    stop_id: "F24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980080
+    }
+    departure {
+      time: 1595980080
+    }
+    stop_id: "F25S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980230
+    }
+    departure {
+      time: 1595980230
+    }
+    stop_id: "F26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980320
+    }
+    departure {
+      time: 1595980320
+    }
+    stop_id: "F27S"
+  }
+}
+, id: "000042G"
+vehicle {
+  trip {
+    trip_id: "115800_G..S"
+    start_time: "19:18:00"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595978280
+  stop_id: "G22"
+}
+, id: "000043G"
+trip_update {
+  trip {
+    trip_id: "115950_G..N"
+    start_time: "19:19:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978370
+    }
+    departure {
+      time: 1595978370
+    }
+    stop_id: "F27N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978490
+    }
+    departure {
+      time: 1595978490
+    }
+    stop_id: "F26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978640
+    }
+    departure {
+      time: 1595978640
+    }
+    stop_id: "F25N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978760
+    }
+    departure {
+      time: 1595978760
+    }
+    stop_id: "F24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978880
+    }
+    departure {
+      time: 1595978880
+    }
+    stop_id: "F23N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978970
+    }
+    departure {
+      time: 1595978970
+    }
+    stop_id: "F22N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979090
+    }
+    departure {
+      time: 1595979090
+    }
+    stop_id: "F21N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979180
+    }
+    departure {
+      time: 1595979180
+    }
+    stop_id: "F20N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979300
+    }
+    departure {
+      time: 1595979300
+    }
+    stop_id: "A42N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979420
+    }
+    departure {
+      time: 1595979420
+    }
+    stop_id: "G36N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979510
+    }
+    departure {
+      time: 1595979510
+    }
+    stop_id: "G35N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979600
+    }
+    departure {
+      time: 1595979600
+    }
+    stop_id: "G34N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979660
+    }
+    departure {
+      time: 1595979660
+    }
+    stop_id: "G33N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979750
+    }
+    departure {
+      time: 1595979750
+    }
+    stop_id: "G32N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979840
+    }
+    departure {
+      time: 1595979840
+    }
+    stop_id: "G31N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979930
+    }
+    departure {
+      time: 1595979930
+    }
+    stop_id: "G30N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979990
+    }
+    departure {
+      time: 1595979990
+    }
+    stop_id: "G29N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980170
+    }
+    departure {
+      time: 1595980170
+    }
+    stop_id: "G28N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980260
+    }
+    departure {
+      time: 1595980260
+    }
+    stop_id: "G26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980410
+    }
+    departure {
+      time: 1595980410
+    }
+    stop_id: "G24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980470
+    }
+    departure {
+      time: 1595980470
+    }
+    stop_id: "G22N"
+  }
+}
+, id: "000044G"
+vehicle {
+  trip {
+    trip_id: "115950_G..N"
+    start_time: "19:19:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595978370
+  stop_id: "F27"
+}
+, id: "000045G"
+trip_update {
+  trip {
+    trip_id: "116450_G..S"
+    start_time: "19:24:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978670
+    }
+    departure {
+      time: 1595978670
+    }
+    stop_id: "G22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978730
+    }
+    departure {
+      time: 1595978730
+    }
+    stop_id: "G24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978880
+    }
+    departure {
+      time: 1595978880
+    }
+    stop_id: "G26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978970
+    }
+    departure {
+      time: 1595978970
+    }
+    stop_id: "G28S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979150
+    }
+    departure {
+      time: 1595979150
+    }
+    stop_id: "G29S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979240
+    }
+    departure {
+      time: 1595979240
+    }
+    stop_id: "G30S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979300
+    }
+    departure {
+      time: 1595979300
+    }
+    stop_id: "G31S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979390
+    }
+    departure {
+      time: 1595979390
+    }
+    stop_id: "G32S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979480
+    }
+    departure {
+      time: 1595979480
+    }
+    stop_id: "G33S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979540
+    }
+    departure {
+      time: 1595979540
+    }
+    stop_id: "G34S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979630
+    }
+    departure {
+      time: 1595979630
+    }
+    stop_id: "G35S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979720
+    }
+    departure {
+      time: 1595979720
+    }
+    stop_id: "G36S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979810
+    }
+    departure {
+      time: 1595979810
+    }
+    stop_id: "A42S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979900
+    }
+    departure {
+      time: 1595979900
+    }
+    stop_id: "F20S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979990
+    }
+    departure {
+      time: 1595979990
+    }
+    stop_id: "F21S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980110
+    }
+    departure {
+      time: 1595980110
+    }
+    stop_id: "F22S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980230
+    }
+    departure {
+      time: 1595980230
+    }
+    stop_id: "F23S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980320
+    }
+    departure {
+      time: 1595980320
+    }
+    stop_id: "F24S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980410
+    }
+    departure {
+      time: 1595980410
+    }
+    stop_id: "F25S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980560
+    }
+    departure {
+      time: 1595980560
+    }
+    stop_id: "F26S"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980650
+    }
+    departure {
+      time: 1595980650
+    }
+    stop_id: "F27S"
+  }
+}
+, id: "000046G"
+vehicle {
+  trip {
+    trip_id: "116450_G..S"
+    start_time: "19:24:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595978670
+  stop_id: "G22"
+}
+, id: "000047G"
+trip_update {
+  trip {
+    trip_id: "116950_G..N"
+    start_time: "19:29:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595978970
+    }
+    departure {
+      time: 1595978970
+    }
+    stop_id: "F27N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979090
+    }
+    departure {
+      time: 1595979090
+    }
+    stop_id: "F26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979240
+    }
+    departure {
+      time: 1595979240
+    }
+    stop_id: "F25N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979360
+    }
+    departure {
+      time: 1595979360
+    }
+    stop_id: "F24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979480
+    }
+    departure {
+      time: 1595979480
+    }
+    stop_id: "F23N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979570
+    }
+    departure {
+      time: 1595979570
+    }
+    stop_id: "F22N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979690
+    }
+    departure {
+      time: 1595979690
+    }
+    stop_id: "F21N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979780
+    }
+    departure {
+      time: 1595979780
+    }
+    stop_id: "F20N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979870
+    }
+    departure {
+      time: 1595979870
+    }
+    stop_id: "A42N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595979960
+    }
+    departure {
+      time: 1595979960
+    }
+    stop_id: "G36N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980050
+    }
+    departure {
+      time: 1595980050
+    }
+    stop_id: "G35N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980140
+    }
+    departure {
+      time: 1595980140
+    }
+    stop_id: "G34N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980200
+    }
+    departure {
+      time: 1595980200
+    }
+    stop_id: "G33N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980290
+    }
+    departure {
+      time: 1595980290
+    }
+    stop_id: "G32N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980380
+    }
+    departure {
+      time: 1595980380
+    }
+    stop_id: "G31N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980470
+    }
+    departure {
+      time: 1595980470
+    }
+    stop_id: "G30N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980530
+    }
+    departure {
+      time: 1595980530
+    }
+    stop_id: "G29N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980710
+    }
+    departure {
+      time: 1595980710
+    }
+    stop_id: "G28N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980800
+    }
+    departure {
+      time: 1595980800
+    }
+    stop_id: "G26N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595980950
+    }
+    departure {
+      time: 1595980950
+    }
+    stop_id: "G24N"
+  }
+  stop_time_update {
+    arrival {
+      time: 1595981010
+    }
+    departure {
+      time: 1595981010
+    }
+    stop_id: "G22N"
+  }
+}
+, id: "000048G"
+vehicle {
+  trip {
+    trip_id: "116950_G..N"
+    start_time: "19:29:30"
+    start_date: "20200728"
+    route_id: "G"
+  }
+  timestamp: 1595978970
+  stop_id: "F27"
+}
+]
