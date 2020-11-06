@@ -1,7 +1,0 @@
-make a makefile
-add a make for protobuff
-add dockerfile
-add docker-compose
-try reading data
-read data with tributary streams
-integrate airflow and make it an airflow dag
